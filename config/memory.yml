@@ -1,0 +1,3 @@
+parameters:
+    # Peak memory usage? GZip status, server load (if set)
+    debug.memory: true

@@ -1,0 +1,3 @@
+parameters:
+    # Queries number and SQL explain link (for admins only)
+    debug.sql_explain: true

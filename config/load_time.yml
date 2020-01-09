@@ -1,0 +1,3 @@
+parameters:
+    # page generation time (SQL and PHP time on cursor hover)
+    debug.load_time: true
