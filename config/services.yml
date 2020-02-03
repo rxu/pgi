@@ -2,3 +2,5 @@ imports:
     - { resource: load_time.yml }
     - { resource: sql_explain.yml }
     - { resource: memory.yml }
+    - { resource: show_errors.yml }
+    - { resource: exceptions.yml }
